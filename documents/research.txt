@@ -1,0 +1,6 @@
+Alice is a researcher at MIT.
+Alice wrote GraphRAG Basics in 2025.
+GraphRAG Basics discusses RAG and Graph Databases.
+
+Carol is a researcher at MIT.
+Carol collaborated with Alice on GraphRAG Basics.

@@ -1,0 +1,5 @@
+Bob is a researcher at Stanford University.
+
+Bob wrote Knowledge Graph Applications in 2024.
+
+Knowledge Graph Applications discusses knowledge graphs and RAG.
